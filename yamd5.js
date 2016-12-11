@@ -399,4 +399,4 @@ THE SOFTWARE.
         root.YaMD5 = MD5;
     }
     return MD5;
-})(this);
+})(exports);
