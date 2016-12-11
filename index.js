@@ -1,6 +1,6 @@
 var YaMD5 = require('./yamd5').YaMD5;
 
-window.self.onmessage = function(e){
+self.onmessage = function(e){
   var file = e.data.file;
   var hasher = new YaMD5();
   hasher.start();
