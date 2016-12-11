@@ -11,5 +11,6 @@
   "license": "BSD-3-Clause",
   "devDependencies": {
     "webpack": "^1.14.0"
-  }
+  },
+  "repository": "https://github.com/jinchizhong/yamd5-worker.js"
 }
