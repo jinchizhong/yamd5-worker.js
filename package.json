@@ -1,6 +1,6 @@
 {
   "name": "yamd5-worker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MD5 web worker, base on YaMD5.",
   "main": "index.js",
   "scripts": {

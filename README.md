@@ -9,7 +9,7 @@ Usage
     var yamd5Worker = new Worker('path-to-yamd5-workers.min.js');
     yamd5Worker.onmessage = function(e) {
       console.log(e.data.id);
-      console.log(d.data.md5);
+      console.log(e.data.md5);
     };
     yamd5Worker.postMessage({id: 'whatever you want', file: file_form_input_or_drop});
 
