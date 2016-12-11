@@ -1,0 +1,11 @@
+{
+  "name": "yamd5-worker",
+  "version": "0.0.1",
+  "description": "Md5 web worker, base on yamd5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chizhong Jin <pjincz@gmail.com>",
+  "license": "BSD-3-Clause"
+}
